@@ -1,0 +1,29 @@
+[33mcommit 402d0e02c290bfd77ddf7e2145c0228fd7db83ef[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: belulok_sebastian <belulok_sebastian@hotmail.com>
+Date:   Tue May 24 15:02:23 2022 +0800
+
+    Added POST, PUT, PATCH and DELETE methods to our API View
+
+[33mcommit 7fe534e9ed1ba611d85ec1a2a46d8a547d1d4c8f[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: belulok_sebastian <belulok_sebastian@hotmail.com>
+Date:   Tue May 24 11:36:06 2022 +0800
+
+    Added custom user profile model, manager and migrations
+
+[33mcommit 7cce59b2bf14eba24b7d4d48dbc74a83b5f397c9[m
+Author: belulok_sebastian <belulok_sebastian@hotmail.com>
+Date:   Tue May 24 10:50:11 2022 +0800
+
+    Created  django project and app
+
+[33mcommit 5376b245f8f2f27b5ce243de080c29b1202fb358[m
+Author: belulok_sebastian <belulok_sebastian@hotmail.com>
+Date:   Tue May 24 10:34:54 2022 +0800
+
+    Congfigured Vagrant and setup hello world script
+
+[33mcommit bee0640eab41b7cfc354ea59077e6bff0b67cdc1[m
+Author: belulok_sebastian <belulok_sebastian@hotmail.com>
+Date:   Tue May 24 09:59:32 2022 +0800
+
+    Initial commit
